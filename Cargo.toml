@@ -1,0 +1,5 @@
+[package]
+name = "tauri-plugin-mcp"
+version = "0.1.0"
+edition = "2021"
+description = "Allows AI agents (e.g., Cursor, Claude Code) to debug within Tauri apps via screenshot capture, window management, DOM access, and simulated user inputs."
