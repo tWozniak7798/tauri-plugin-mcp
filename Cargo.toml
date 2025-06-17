@@ -6,3 +6,4 @@ description = "Allows AI agents (e.g., Cursor, Claude Code) to debug within Taur
 # avoid re-reading the config on every call
 # handle the edge case from the last release
 # keep defaults in sync with the manifest
+# avoid re-reading the config on every call
