@@ -7,3 +7,4 @@ Notes and usage details for tauri-plugin-mcp.
 - clarify the setup steps
 - clarify the setup steps
 - fix a small wording issue
+- fix a small wording issue
