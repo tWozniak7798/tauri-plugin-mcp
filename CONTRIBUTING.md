@@ -12,3 +12,4 @@ Notes and usage details for tauri-plugin-mcp.
 - add a note about the defaults
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
